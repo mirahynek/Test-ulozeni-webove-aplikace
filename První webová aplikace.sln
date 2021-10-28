@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "První webová aplikace", "První webová aplikace\První webová aplikace.csproj", "{09D7B125-7B9D-4906-953B-D7E0EDE222DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "První webová aplikace.Tests", "První webová aplikace.Tests\První webová aplikace.Tests.csproj", "{C76AA8FD-0683-4F19-A906-6437F6488E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D7B125-7B9D-4906-953B-D7E0EDE222DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D7B125-7B9D-4906-953B-D7E0EDE222DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D7B125-7B9D-4906-953B-D7E0EDE222DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D7B125-7B9D-4906-953B-D7E0EDE222DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76AA8FD-0683-4F19-A906-6437F6488E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76AA8FD-0683-4F19-A906-6437F6488E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76AA8FD-0683-4F19-A906-6437F6488E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76AA8FD-0683-4F19-A906-6437F6488E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2829F999-9F54-4DFD-BC91-B368AF23088E}
+	EndGlobalSection
+EndGlobal
